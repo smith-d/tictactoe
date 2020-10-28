@@ -1,0 +1,27 @@
+ 
+    body { 
+        background-color: #000000; 
+    } 
+  
+    button { 
+        height: 80px; 
+        width: 80px; 
+        background-color: white; 
+        border: 0px transparent; 
+        border-radius: 20%; 
+        margin: 4px; 
+        padding: 4px; 
+    } 
+  
+    .fa { 
+        font-size: 48px; 
+        color: black; 
+    } 
+  
+    .reset { 
+        padding: 8px; 
+    } 
+  
+    .reset:hover { 
+        opacity: 0.8; 
+    } 
